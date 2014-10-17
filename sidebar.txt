@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xko:home|Door43 (xko)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xko|d43-xko repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xko/archive/master.zip|d43-xko.zip]]
+
+**Recent Changes**
+{{changes>ns = xko}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xko|Ethnologue data]]
+
